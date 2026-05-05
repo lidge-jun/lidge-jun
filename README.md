@@ -151,53 +151,6 @@
 
 ---
 
-## 📌 Pinned Repositories
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/lidge-jun/cli-jaw">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lidge-jun&repo=cli-jaw&theme=radical&hide_border=true" alt="cli-jaw" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/lidge-jun/cli-jaw-skills">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lidge-jun&repo=cli-jaw-skills&theme=radical&hide_border=true" alt="cli-jaw-skills" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/lidge-jun/agbrowse">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lidge-jun&repo=agbrowse&theme=radical&hide_border=true" alt="agbrowse" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/lidge-jun/gemini31-web">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lidge-jun&repo=gemini31-web&theme=radical&hide_border=true" alt="gemini31-web" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/lidge-jun/markdown-fastrag-mcp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lidge-jun&repo=markdown-fastrag-mcp&theme=radical&hide_border=true" alt="markdown-fastrag-mcp" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/lidge-jun/ima2-gen">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lidge-jun&repo=ima2-gen&theme=radical&hide_border=true" alt="ima2-gen" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 🎵 Vibe
 
 <div align="center">
