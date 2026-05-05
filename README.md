@@ -15,7 +15,8 @@
 <a href="https://chat.openai.com"><img src="https://img.shields.io/badge/ChatGPT-Pro-C41E3A?style=flat-square&logo=openai&logoColor=white" /></a>&nbsp;
 <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-Max_20x-C41E3A?style=flat-square&logo=anthropic&logoColor=white" /></a>&nbsp;
 <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-Ultra-C41E3A?style=flat-square&logo=google&logoColor=white" /></a>&nbsp;
-<a href="https://grok.com"><img src="https://img.shields.io/badge/Grok-Super-C41E3A?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://grok.com"><img src="https://img.shields.io/badge/Grok-Super-C41E3A?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
+<a href="https://opencode.ai"><img src="https://img.shields.io/badge/OpenCode-Go-C41E3A?style=flat-square&logo=go&logoColor=white" /></a>
 
 </div>
 
