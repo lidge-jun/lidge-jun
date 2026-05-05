@@ -50,15 +50,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Grader
 
 <div align="center">
 
-![lidge-jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lidge-jun&show_icons=true&theme=radical&rank_icon=github&hide_border=true)
+![lidge-jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=lidge-jun&show_icons=true&theme=radical&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lidge-jun&theme=radical&hide_border=true)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=lidge-jun&theme=radical&column=7&no-frame=true&margin-w=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lidge-jun&theme=radical&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
