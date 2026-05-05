@@ -25,7 +25,7 @@
 
 <div align="center">
 
-**AI Models**
+**AI Models I Talk To Daily**
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-cc785c?style=flat-square&logo=anthropic&logoColor=white)
@@ -36,25 +36,13 @@
 ![Mimo](https://img.shields.io/badge/Mimo-ff6b6b?style=flat-square)
 ![GLM](https://img.shields.io/badge/GLM-00897b?style=flat-square)
 
-**Languages & Frameworks**
+**Core Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lidge-jun&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lidge-jun&theme=radical&hide_border=true)
 
 </div>
 
@@ -88,8 +76,6 @@
 ---
 
 <div align="center">
-
-[![Visitors](https://komarev.com/ghpvc/?username=lidge-jun&color=36BCF7&style=flat-square)](https://github.com/lidge-jun)
 
 **"The best code is the code you didn't have to write yourself."**
 
