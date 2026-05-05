@@ -54,9 +54,9 @@ infra       macos · vscode · terminal · docker
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lidge-jun&hide_border=true&background=00000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=lidge-jun&hide_border=true&background=00000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
-  <img src="https://streak-stats.demolab.com?user=lidge-jun&hide_border=true&background=00000000&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lidge-jun&hide_border=true&background=0d1117&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=lidge-jun&hide_border=true&background=ffffff&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
+  <img src="https://streak-stats.demolab.com?user=lidge-jun&hide_border=true&background=0d1117&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="streak" />
 </picture>
 
 </div>
