@@ -4,6 +4,8 @@
 
 *AI-powered everything. Probably talking to 8 models right now.*
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Terminal+is+my+second+home;I+%F0%9F%92%9C+open+source;Always+learning+something+new;AI+is+just+a+tool...+for+now)](https://git.io/typing-svg)
+
 </div>
 
 ---
@@ -31,10 +33,10 @@
 ![Claude](https://img.shields.io/badge/Claude-cc785c?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285f4?style=flat-square&logo=google&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-1c1c1c?style=flat-square&logo=x&logoColor=white)
-![Kimi](https://img.shields.io/badge/Kimi-000000?style=flat-square)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4b6bfb?style=flat-square)
-![Mimo](https://img.shields.io/badge/Mimo-ff6b6b?style=flat-square)
-![GLM](https://img.shields.io/badge/GLM-00897b?style=flat-square)
+![Kimi](https://img.shields.io/badge/Kimi-000000?style=flat-square&logo=moonshot&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4b6bfb?style=flat-square&logo=deepseek&logoColor=white)
+![Mimo](https://img.shields.io/badge/Mimo-ff6b6b?style=flat-square&logoColor=white)
+![GLM](https://img.shields.io/badge/GLM-00897b?style=flat-square&logoColor=white)
 
 **Core Stack**
 
@@ -52,7 +54,20 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lidge-jun&show_icons=true&theme=radical&rank_icon=github&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lidge-jun&show_icons=true&theme=radical&rank_icon=github&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidge-jun&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lidge-jun&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=lidge-jun&theme=radical&column=7&no-frame=true&margin-w=10" alt="Trophy" />
 
 </div>
 
@@ -62,7 +77,7 @@
 
 <div align="center">
 
-![github-snake](https://raw.githubusercontent.com/lidge-jun/lidge-jun/output/github-snake.svg)
+<img src="https://raw.githubusercontent.com/lidge-jun/lidge-jun/output/github-snake.svg" alt="github-snake" />
 
 *Yes, it's eating my contributions. No, I don't mind.*
 
@@ -70,18 +85,48 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Pinned Repositories
 
 <div align="center">
 
-| Project | Language | Stars |
-|---------|----------|-------|
-| [cli-jaw](https://github.com/lidge-jun/cli-jaw) | TypeScript | 98 |
-| [ima2-gen](https://github.com/lidge-jun/ima2-gen) | TypeScript | 150 |
-| [agbrowse](https://github.com/lidge-jun/agbrowse) | JavaScript | 7 |
-| [gemini31-web](https://github.com/lidge-jun/gemini31-web) | TypeScript | - |
-| [markdown-fastrag-mcp](https://github.com/lidge-jun/markdown-fastrag-mcp) | Python | - |
-| [cli-jaw-skills](https://github.com/lidge-jun/cli-jaw-skills) | Python | - |
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/lidge-jun/cli-jaw">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lidge-jun&repo=cli-jaw&theme=radical&hide_border=true" alt="cli-jaw" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/lidge-jun/cli-jaw-skills">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lidge-jun&repo=cli-jaw-skills&theme=radical&hide_border=true" alt="cli-jaw-skills" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/lidge-jun/agbrowse">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lidge-jun&repo=agbrowse&theme=radical&hide_border=true" alt="agbrowse" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/lidge-jun/gemini31-web">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lidge-jun&repo=gemini31-web&theme=radical&hide_border=true" alt="gemini31-web" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/lidge-jun/markdown-fastrag-mcp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lidge-jun&repo=markdown-fastrag-mcp&theme=radical&hide_border=true" alt="markdown-fastrag-mcp" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/lidge-jun/ima2-gen">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lidge-jun&repo=ima2-gen&theme=radical&hide_border=true" alt="ima2-gen" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -91,6 +136,7 @@
 
 <div align="center">
 
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -102,6 +148,8 @@
 ---
 
 <div align="center">
+
+[![Visitors](https://komarev.com/ghpvc/?username=lidge-jun&color=36BCF7&style=flat-square)](https://github.com/lidge-jun)
 
 **"The best code is the code you didn't have to write yourself."**
 
