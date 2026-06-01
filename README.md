@@ -129,6 +129,30 @@
 
 <div align="center">
 
+### Public workbench
+
+| Surface | What it is | Status |
+| --- | --- | --- |
+| [`cli-jaw`](https://github.com/lidge-jun/cli-jaw) | Local-first agent OS for dispatch, browser control, memory, goals, and tool orchestration. | active system repo |
+| [`ima2-gen`](https://github.com/lidge-jun/ima2-gen) | Image and card-news generation pipeline with repeatable visual outputs. | active media repo |
+| [`progrok`](https://github.com/lidge-jun/progrok) | Programmatic Grok research and browser-backed automation experiments. | active research repo |
+| [`agbrowse`](https://github.com/lidge-jun/agbrowse) | Authenticated browser automation bridge for AI web sessions. | maintained tool |
+| [`code-office`](https://github.com/lidge-jun/code-office) | Office-document automation experiments and visual document tooling. | maintained app |
+| [`cli-receipt`](https://github.com/lidge-jun/cli-receipt) | Local AI CLI usage receipt generator for Claude, Codex, and Copilot artifacts. | maintained CLI |
+
+### Repository policy
+
+- Public repositories should explain what the project does, how to run it, what is verified, and what is intentionally local-only.
+- README claims are kept evidence-backed: install commands, test commands, CI status, Pages status, and license statements must match the repository.
+- GitHub Pages surfaces are treated as product pages when a project has a browser-facing story; CLI/library repos get concise docs pages with quickstart, workflow, privacy, and verification sections.
+- Security-sensitive projects avoid publishing secrets, local paths, account tokens, private transcripts, or generated artifacts that expose personal usage data.
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=lidge-jun&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=lidge-jun&show_icons=true&title_color=C41E3A&text_color=24292f&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
