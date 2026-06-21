@@ -8,7 +8,6 @@
 
 <br/>
 
-<a href="mailto:pos090011@gmail.com"><img src="https://img.shields.io/badge/pos090011@gmail.com-C41E3A?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
