@@ -6,9 +6,6 @@
 
 <sub>Korea University · Non-CS student obsessed with AI · Building fun stuff I want to exist</sub>
 
-<br/>
-
-
 <br/><br/>
 
 <a href="https://chat.openai.com"><img src="https://img.shields.io/badge/ChatGPT-Pro-C41E3A?style=flat-square&logo=openai&logoColor=white" /></a>&nbsp;
@@ -128,23 +125,15 @@
 
 <div align="center">
 
-### Public workbench
+### 🛠️ Featured projects
 
-| Surface | What it is | Status |
+| Project | What it does | Stars |
 | --- | --- | --- |
-| [`cli-jaw`](https://github.com/lidge-jun/cli-jaw) | Local-first agent OS for dispatch, browser control, memory, goals, and tool orchestration. | active system repo |
-| [`ima2-gen`](https://github.com/lidge-jun/ima2-gen) | Image and card-news generation pipeline with repeatable visual outputs. | active media repo |
-| [`progrok`](https://github.com/lidge-jun/progrok) | Programmatic Grok research and browser-backed automation experiments. | active research repo |
-| [`agbrowse`](https://github.com/lidge-jun/agbrowse) | Authenticated browser automation bridge for AI web sessions. | maintained tool |
-| [`code-office`](https://github.com/lidge-jun/code-office) | Office-document automation experiments and visual document tooling. | maintained app |
-| [`cli-receipt`](https://github.com/lidge-jun/cli-receipt) | Local AI CLI usage receipt generator for Claude, Codex, and Copilot artifacts. | maintained CLI |
-
-### Repository policy
-
-- Public repositories should explain what the project does, how to run it, what is verified, and what is intentionally local-only.
-- README claims are kept evidence-backed: install commands, test commands, CI status, Pages status, and license statements must match the repository.
-- GitHub Pages surfaces are treated as product pages when a project has a browser-facing story; CLI/library repos get concise docs pages with quickstart, workflow, privacy, and verification sections.
-- Security-sensitive projects avoid publishing secrets, local paths, account tokens, private transcripts, or generated artifacts that expose personal usage data.
+| [`opencodex`](https://github.com/lidge-jun/opencodex) | Universal provider proxy for OpenAI Codex & Claude Code — swap in any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) across CLI, App, and SDK. | ![](https://img.shields.io/github/stars/lidge-jun/opencodex?style=flat-square&logo=github&label=&color=C41E3A) |
+| [`ima2-gen`](https://github.com/lidge-jun/ima2-gen) | Minimal CLI + web UI for GPT Image 2 generation. Dual auth (API key or ChatGPT OAuth), text-to-image, image-to-image, parallel batches. | ![](https://img.shields.io/github/stars/lidge-jun/ima2-gen?style=flat-square&logo=github&label=&color=C41E3A) |
+| [`agbrowse`](https://github.com/lidge-jun/agbrowse) | Browser automation toolkit for AI agents. Zero MCP token tax, JS evaluate, vision-click with DPR correction. | ![](https://img.shields.io/github/stars/lidge-jun/agbrowse?style=flat-square&logo=github&label=&color=C41E3A) |
+| [`cli-jaw`](https://github.com/lidge-jun/cli-jaw) | 2-line install personal AI assistant. 11 runtime surfaces, 200+ skills, zero ban risk. | ![](https://img.shields.io/github/stars/lidge-jun/cli-jaw?style=flat-square&logo=github&label=&color=C41E3A) |
+| [`codexclaw`](https://github.com/lidge-jun/codexclaw) | Dev discipline + multi-model subagents for OpenAI Codex — 13 skills, PABCD workflow, repo map, recall. Single plugin. | ![](https://img.shields.io/github/stars/lidge-jun/codexclaw?style=flat-square&logo=github&label=&color=C41E3A) |
 
 </div>
 
