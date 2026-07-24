@@ -29,9 +29,8 @@
 **Models**&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Allegro-7C3AED?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white" />
-<img src="https://img.shields.io/badge/Kimi-5856D6?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Allegro-7C3AED?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Mimo-FF6B6B?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/GLM-1A73E8?style=flat-square&logoColor=white" />
